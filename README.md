@@ -18,4 +18,5 @@ This repo contains the following files:
 - **index.ipynb** our master notebook containing our model, some initial EDA, and visualizations
 - **training_values.csv** the training data (as provided by the competition)
 - **training_labels.csv** the true values (as provided by the competition)
+- **Pump It Up.pdf** the slide deck from our presentation
 - **README.md**
